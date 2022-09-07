@@ -1,0 +1,2 @@
+#!/bin/bash thatword
+grep -c -i bin /etc/passwd thatword
